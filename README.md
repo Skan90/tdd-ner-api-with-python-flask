@@ -5,12 +5,21 @@ This repository contains the materials for the [TDD Full Course (Learn Test Driv
 ## 📚 Course Overview 📚
 
 ☁️  Overview of TDD (Test-Driven Development)  ☁️ 
+
 ►  What is TDD?
+
 ►  How to do TDD
+
 ►  Using Pytest for unit testing
+
 ►  Using Selenium for browser automation testing
+
 ►  Named Entity Extraction
+
 ►  Using spaCy for NLP
+
 ►  Unit testing in Python
+
 ►  Writing test doubles
+
 ►  Build an API with Flask
